@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{a3 as a,a4 as r}from"./main.2046a1e9.js";const t={name:"Market"};function o(n,c,s,p,_,m){return a(),r("div",null,"Page In Development")}var i=e(t,[["render",o]]);export{i as default};

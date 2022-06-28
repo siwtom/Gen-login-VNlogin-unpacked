@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{a3 as n,a4 as a}from"./main.2046a1e9.js";const o={name:"PageInDevelopment"};function t(r,p,c,s,m,l){return n(),a("div",null,"Page In Development")}var i=e(o,[["render",t]]);export{i as default};
